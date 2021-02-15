@@ -1,0 +1,15 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "https://docs-gitbook.frontity.org/" },
+    {
+      "source": "/:match*",
+      "destination": "https://docs-gitbook.frontity.org/:match*"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/api-reference-1",
+      "destination": "https://api.frontity.org/frontity-packages"
+    }
+  ]
+}
