@@ -10,6 +10,10 @@
     {
       "source": "/api-reference-1",
       "destination": "https://api.frontity.org/frontity-packages"
+    },
+    {
+      "source": "/frontity-cli",
+      "destination": "https://api.frontity.org/frontity-cli"
     }
   ]
 }
