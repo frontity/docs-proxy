@@ -1,9 +1,9 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "https://docs-gitbook.frontity.org/" },
+    { "source": "/", "destination": "frontity-tech.gitbook.io/frontity" },
     {
       "source": "/:match*",
-      "destination": "https://docs-gitbook.frontity.org/:match*"
+      "destination": "frontity-tech.gitbook.io/frontity/:match*"
     }
   ],
   "redirects": [
