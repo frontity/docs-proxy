@@ -15,12 +15,12 @@
       "destination": "https://api.frontity.org/frontity-packages"
     },
     {
-      "source": "/frontity-cli",
-      "destination": "https://api.frontity.org/frontity-cli"
+      "source": "/api-reference-1/:match*",
+      "destination": "https://api.frontity.org/frontity-packages/:match*"
     },
     {
-      "source": "/frontity-cli/environment-variables",
-      "destination": "https://api.frontity.org/frontity-cli#arguments-and-environment-variables"
+      "source": "/frontity-cli",
+      "destination": "https://api.frontity.org/frontity-cli"
     },
     {
       "source": "/frontity-cli/:match*",
