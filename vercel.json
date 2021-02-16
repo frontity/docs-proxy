@@ -33,6 +33,14 @@
     {
       "source": "/frontity-themes/:match*",
       "destination": "https://api.frontity.org/frontity-themes/:match*"
+    },
+    {
+      "source": "/frontity-plugins",
+      "destination": "https://api.frontity.org/frontity-plugins"
+    },
+    {
+      "source": "/frontity-plugins/:match*",
+      "destination": "https://api.frontity.org/frontity-plugins/:match*"
     }
   ]
 }
