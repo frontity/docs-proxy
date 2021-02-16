@@ -25,6 +25,14 @@
     {
       "source": "/frontity-cli/:match*",
       "destination": "https://api.frontity.org/frontity-cli/:match*"
+    },
+    {
+      "source": "/frontity-themes",
+      "destination": "https://api.frontity.org/frontity-themes"
+    },
+    {
+      "source": "/frontity-themes/:match*",
+      "destination": "https://api.frontity.org/frontity-themes/:match*"
     }
   ]
 }
