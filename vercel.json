@@ -17,6 +17,10 @@
     {
       "source": "/frontity-cli",
       "destination": "https://api.frontity.org/frontity-cli"
+    },
+    {
+      "source": "/frontity-cli/:match*",
+      "destination": "https://api.frontity.org/frontity-cli/:match*"
     }
   ]
 }
