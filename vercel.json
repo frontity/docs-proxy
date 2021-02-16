@@ -21,6 +21,10 @@
     {
       "source": "/frontity-cli/:match*",
       "destination": "https://api.frontity.org/frontity-cli/:match*"
+    },
+    {
+      "source": "/frontity-cli/environment-variables",
+      "destination": "https://api.frontity.org/frontity-cli#arguments-and-environment-variables"
     }
   ]
 }
