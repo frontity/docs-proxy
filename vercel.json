@@ -42,6 +42,10 @@
     {
       "source": "/frontity-plugins/:match*",
       "destination": "https://api.frontity.org/frontity-plugins/:match*"
+    },
+    {
+      "source": "/getting-started/connecting-to-wordpress",
+      "destination": "https://docs.frontity.org/getting-started/quick-start-guide#set-your-own-wordpress-installation"
     }
   ]
 }
