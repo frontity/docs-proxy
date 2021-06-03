@@ -46,6 +46,14 @@
     {
       "source": "/getting-started/connecting-to-wordpress",
       "destination": "https://docs.frontity.org/getting-started/quick-start-guide#set-your-own-wordpress-installation"
+    },
+    {
+      "source": "/learning-frontity/code-splitting",
+      "destination": "https://docs.frontity.org/performance/code-splitting"
+    },
+    {
+      "source": "/about#key-differences-from-gatsbyjs",
+      "destination": "/about#key-differences-from-other-react-frameworks"
     }
   ]
 }
