@@ -52,8 +52,8 @@
       "destination": "https://docs.frontity.org/performance/code-splitting"
     },
     {
-      "source": "/about#key-differences-from-gatsbyjs",
-      "destination": "/about#key-differences-from-other-react-frameworks"
-    }
+      "source": "/learning-frontity/head",
+      "destination": "https://docs.frontity.org/seo"
+    },
   ]
 }
